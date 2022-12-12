@@ -26,4 +26,4 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 To the proper path for tesseract.exe.
 
-#### From there you can run the script, you have 2 minutes from the start of operation before a spinlock between padtest tabs happens to put in your data for the keystrokes. After that, you should be good to go. Oh, also be warned the only way to reliably end the program is through task manager
+###### From there you can run the script, you have 2 minutes from the start of operation before a spinlock between padtest tabs happens to put in your data for the keystrokes. After that, you should be good to go. Oh, also be warned the only way to reliably end the program is through task manager. You can also only do something with this script if you utilize two monitors.
